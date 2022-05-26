@@ -1,3 +1,5 @@
+## AVA for React Native
+
 This project is the AVA auto-tracking device revised in React Native with tensorflowjs.
 
 At this point in time, it only features detection. We're planning to fully flesh out the App to showcase AVA movement in sync with a TFJS model movement.
